@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm ChiOtter.
 
-<!--
-**ChiOtter/ChiOtter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤩 My name is Sempotter.
+- ⚡️ **Hobby**:Otter, Work, Table-Tennis, J-pop-GirlsIdol
+- 🍽️ **FavFood**: Ramen, Omu-hayashi
 
-Here are some ideas to get you started:
+### ⚒️ DevSkill
+- 📚 **Languages**: JavaScript, HTML, CSS, Java, Python
+- 🗒️ **Frameworks**: React
+- 🔨 **Tools**: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  OtherSkill
+- #️⃣ **Skills**: #Organizational-Development/Management #Planning/Operations #App-UI/UX #Web-Design #Experience-Design #Spatial-Design #Events-Design #Video-Design #Game-Design #Graphic-Design
+- 💻 **KeySkill** Notion, Figma, Slack
