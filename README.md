@@ -11,4 +11,4 @@
 
 ### 💼 OtherSkill
 - #️⃣ **Skills**: #Organizational-Development/Management #Planning/Operations #App-UI/UX #Web-Design #Experience-Design #Spatial-Design #Events-Design #Video-Design #Game-Design #Graphic-Design
-- 💻 **KeySkill** Notion, Figma, Slack
+- 💻 **KeySkills** Notion, Figma, Slack
