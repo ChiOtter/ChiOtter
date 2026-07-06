@@ -1,7 +1,7 @@
 ## Hi, I'm ChiOtter.
 
 ### 🤩 My name is Sempotter.
-- ⚡️ **Fav**:Otter, Work, Table-Tennis, J-pop-GirlsIdol
+- ⚡️ **Fav**: Otter, Work, Table-Tennis, J-pop-GirlsIdol
 - 🍽️ **FavFood**: Ramen, Omu-hayashi
 
 ### ⚒️ DevSkill
